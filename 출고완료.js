@@ -1,3 +1,11 @@
+/**
+ * ========================================
+ * 이 파일은 현재 사용하지 않습니다.
+ * 새로운 노란색칠하기.js 파일을 사용해주세요.
+ * ========================================
+ */
+
+/*
 function processCheckout() {
   // 중복 실행 방지
   const lock = LockService.getScriptLock();
@@ -263,6 +271,7 @@ function updateBackupSheet(
 }
 
 // 1. onEdit 트리거용 함수 (셀 편집 시)
+/*
 function onEdit(e) {
   // 셀 편집 시 processCheckout 실행
   console.log("셀이 편집되었습니다:", e);
@@ -364,3 +373,4 @@ function checkTriggers() {
     );
   });
 }
+*/
